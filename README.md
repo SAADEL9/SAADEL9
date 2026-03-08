@@ -26,13 +26,7 @@ I'm a software engineering student who loves jumping between low-level systems a
 ### 🧠 Core Languages
 `Java` • `C` • `C++` • `Python` • `PHP` • `JavaScript`
 
----
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAADEL9&show_icons=true&theme=radical" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAADEL9&layout=compact&theme=radical" alt="Langs" height="150" />
-</p>
 
 ---
 
