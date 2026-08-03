@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-<img src="./assets/neofetch-card.svg" alt="neofetch style profile card" width="100%"/>
+<img src="./neofetch-card.svg" alt="neofetch style profile card" width="100%"/>
 </div>
 
 ---
