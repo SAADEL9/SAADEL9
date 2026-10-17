@@ -33,9 +33,9 @@ I'm an engineering student at EMSI who builds full-stack applications with Java 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./heatmap-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./heatmap-light.svg">
-  <img src="./heatmap-dark.svg" alt="GitHub contribution heatmap">
+  <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./snake-light.svg">
+  <img src="./snake-dark.svg" alt="GitHub contribution graph with snake">
 </picture>
 
 </div>
